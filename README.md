@@ -22,7 +22,7 @@ To build an AI-based early warning system for fault detection in spinning frame 
 
 ##  Output Example
 
-![Confusion Matrix](images/confusion
+
 ## Flowchart
 
 ![Project Flow](images/flowchart.png)
